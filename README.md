@@ -1,0 +1,1 @@
+# jeedom-minuterie-plugin-documentation
